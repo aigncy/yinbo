@@ -11,4 +11,4 @@ Special Thanks To [Farzan Nadim](http://stg.rutgers.edu/farzan/), [Jordan Storms
 ![image](/Users/yinbo/Dropbox/Data/final.jpg)
 ![image](/Users/yinbo/Dropbox/Data/302v6.jpg)
 ![image](/Users/yinbo/Dropbox/Data/jpegtest.jpg)
-![image](https://www.dropbox.com/s/lmsm5fcdy1y8y77/1111.jpg?v=1mci)
+![image](http://github.com/aigncy/yinbo/raw/master/final.png)
