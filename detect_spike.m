@@ -21,8 +21,6 @@ end
 j = j+1;
 b1(1,j) = a1(1,length(a1));
 
-%the last a1 belongs b1
-
 if b1(1,j) == b1(1,j-1)
    b1(1,j) = 0;
    b1(1,j-1) = 0;
