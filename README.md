@@ -4,6 +4,8 @@ Yinbo Chen
 
 <aigncy@gmail.com>
 
+[Mato Paper](http://arxiv.org/abs/1303.5111v1)
+
 Special thanks to [Farzan Nadim](http://stg.rutgers.edu/farzan/), [Jordan Storms](https://www.facebook.com/jordan.storms.75?fref=ts), [David Fox](https://www.facebook.com/david.fox.148?fref=ts), and [Diana Martinez](https://www.facebook.com/diana.martinez.09?fref=ts) for their help and support in.
 
 >If this code works, it was written by yinbo. If not, I don't know who wrote it.
