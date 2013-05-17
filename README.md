@@ -8,7 +8,5 @@ Special Thanks To [Farzan Nadim](http://stg.rutgers.edu/farzan/), [Jordan Storms
 
 >If this code works, it was written by yinbo. If not, I don't know who wrote it.
 
-![image](/Users/yinbo/Dropbox/Data/final.jpg)
-![image](/Users/yinbo/Dropbox/Data/302v6.jpg)
-![image](/Users/yinbo/Dropbox/Data/jpegtest.jpg)
-![image](http://github.com/aigncy/yinbo/raw/master/final.png)
+![image](http://github.com/aigncy/yinbo/raw/master/vc.jpg)
+![image](http://github.com/aigncy/yinbo/raw/master/vc.jpg)
