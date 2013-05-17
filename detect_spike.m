@@ -9,8 +9,6 @@ b1 = zeros(1,length(a1));
 b1(1,1) = a1(1,1);
 j = 1;
 
-%find voltage bigger than threshold
-
 for i = 1:(length(a1)-1)
     if a1(1,i+1) > a1(1,i)+5
        j = j+1;
@@ -19,8 +17,6 @@ for i = 1:(length(a1)-1)
        b1(1,j) = a1(1,i+1);
     end
 end
-
-%find edge points
 
 j = j+1;
 b1(1,j) = a1(1,length(a1));
@@ -47,7 +43,6 @@ for i = 1:2:j
     k = k+1;
 end
 
-%find peaks
 %I love this part.
 
 k = k-1;
